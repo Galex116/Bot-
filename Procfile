@@ -1,1 +1,1 @@
-worker: python "qubity_bot"
+worker: python "qubity_bot.py"
