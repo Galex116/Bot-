@@ -1,4 +1,4 @@
-asqlite 3.8
+asqlite
 aiogram
 sqlite3
 logging
