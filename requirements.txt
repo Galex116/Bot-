@@ -1,4 +1,4 @@
-asqlite
+
 aiogram
 sqlite3
 logging
