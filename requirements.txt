@@ -1,4 +1,2 @@
 aiogram
-sqlite3
-logging
 asqlite
