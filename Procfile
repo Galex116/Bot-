@@ -1,1 +1,1 @@
-worker:python "qubot.py"
+worker: python "qubot.py"
